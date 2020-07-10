@@ -3,8 +3,7 @@ layout: docs
 title:  "Valuable/Vulnerable Materials Policy"
 ---
 
-_
-# Valuable/Vulnerable Materials Policy
+Valuable/Vulnerable Materials Policy
 
 ## Purpose 
 This policy establishes a process by which archival documents, fine arts objects, and other collection items or Rockefeller Archive Center (RAC) property are identified as Valuable/Vulnerable on a master list of such materials. The resulting Valuable/Vulnerable List will be used to secure, monitor, and track the items through an annual inventory designed to prevent loss or theft.  The Valuable/Vulnerable List also enables the RAC to implement additional security measures to protect the materials and to allocate resources for additional preservation or conservation measures to maintain the integrity of the items listed. 
