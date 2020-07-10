@@ -1,4 +1,4 @@
-# Docs template
+# Valuable/Vulnerable Materials Policy
 A template for docs.rockarch.org documentation repositories. Include a short description of the documentation.
 
 ## Accessing the documentation
