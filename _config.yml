@@ -1,9 +1,11 @@
-public:
+public: false
 type: "docs"
-category:
+category: 
+- "preservation"
+- "collection development and management"
 tags:
-
-title:
-description:
+    - "policy"
+title: Valuable/Vulnerable Materials Policy
+description: This policy details the process by which archival documents, fine arts objects, and other collection items in the RAC's possession are identified as valuable/vulnerable.
 pages:
-  - ["Documentation Title", "index"]
+  - ["Valuable/Vulnerable Materials Policy", "index"]
